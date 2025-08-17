@@ -23,7 +23,7 @@
 ---
 
 ## 📸 Dashboard Preview
-![HR Dashboard](screenshots/dashboard.png)
+![HR Dashboard](dashboard.png)
 
 ---
 
